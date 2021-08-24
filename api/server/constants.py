@@ -1,0 +1,1 @@
+MESSAGE_ERROR_SERVER_SEARCH = 'El servidor no fue encontrado'
